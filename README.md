@@ -1,4 +1,4 @@
-# E-commerce Projet Epitech
+# Beta series Project Epitech
 
 Back : Symfony
 Front : Nuxt
